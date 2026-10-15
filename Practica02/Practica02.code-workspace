@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Practica02",
+			"path": "../../Desktop/Practica02"
+		},
+		{
+			"name": "Aplicaciones-WEB",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Aplicaciones-WEB"
+	}
+}
